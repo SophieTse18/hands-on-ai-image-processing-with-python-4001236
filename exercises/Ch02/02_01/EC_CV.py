@@ -1,7 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
-# To convert an RGBA image array that represents data with floating 
+# To convert an RGBA image array that represents data with floating hehe
 # point numbers from 0 to 1 into the RGB integer format from 0 to 255, 
 # we need to make 4 changes:
 
